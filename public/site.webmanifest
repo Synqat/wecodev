@@ -1,0 +1,19 @@
+{
+    "name": "wecodev",
+    "short_name": "wecodev",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#4c98dd",
+    "background_color": "#272831",
+    "display": "standalone"
+}
