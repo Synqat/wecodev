@@ -9,7 +9,7 @@ export interface HeaderProps {}
 
 export const Header: FC<HeaderProps> = () => {
   return (
-    <Center h="header.height" w="full" layerStyle="header">
+    <Center flexShrink={0} h="header.height" w="full" layerStyle="header">
       <HStack boxSize="full" maxW="content.max" justify="space-between">
         <HStack spacing={8}>
           <Link href={PageHref.Home}>

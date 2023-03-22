@@ -13,6 +13,7 @@ const accent = {
 
 export const colors = {
   bg: rgba(39, 40, 49, 1),
+  accessible: rgba(196, 66, 242, 1),
 
   brand: brand(1),
   'brand.80': brand(0.8),

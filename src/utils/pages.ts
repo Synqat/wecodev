@@ -4,4 +4,6 @@ export enum PageHref {
   People = '/people',
   Create = '/create',
   Login = '/login',
+  PrivacyPolicy = '/privacy',
+  TermsOfService = '/terms',
 }

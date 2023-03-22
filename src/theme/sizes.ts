@@ -22,5 +22,10 @@ export const sizes = {
     small: '24px',
     xsmall: '20px',
   },
+  module: {
+    login: {
+      width: '420px',
+    },
+  },
   ...space,
 } as const
